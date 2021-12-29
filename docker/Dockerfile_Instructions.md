@@ -74,6 +74,6 @@ DockerFile
 
 - `ARG` - The ARG instruction defines a variable that users can pass at build-time to the builder with the docker build command using the --build-arg <varname>=<value> flag. 
 
-- `SHELL` - The SHELL instruction allows the default shell used for the shell form of commands to be overridden. 
+- `SHELL` - The SHELL instruction allows the default shell used for the shell form of commands to be overridden smoothly. 
 
 
